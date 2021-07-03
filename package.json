@@ -10,7 +10,7 @@
     "angular-animate": "1.8.x",
     "angular-resource": "1.8.x",
     "angular-route": "1.8.x",
-    "bootstrap": "3.3.x",
+    "bootstrap": "^4.6.0",
     "jquery": "3.3.x"
   },
   "devDependencies": {
